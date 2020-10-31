@@ -1,2 +1,1 @@
-# python-basis
-python-学习
+readme
